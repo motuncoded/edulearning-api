@@ -1,0 +1,26 @@
+{
+    "courses": [
+        {
+            "id": 0,
+            "name":"Learn Vite - Frontend Build Tool Course",
+            "web":"https://www.youtube.com/watch?v=VAeRhmpcWEQ",
+            "image":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fvitejs.dev%2Flogo-with-shadow.png&tbnid=SqfxLqmcJFE3RM&vet=12ahUKEwjI6Ozp3qf-AhV9micCHSH-CnYQMygAegUIARDGAQ..i&imgrefurl=https%3A%2F%2Fvitejs.dev%2F&docid=BeVigJHiDq_5KM&w=640&h=640&q=vite&ved=2ahUKEwjI6Ozp3qf-AhV9micCHSH-CnYQMygAegUIARDGAQ"
+        },
+          {
+            "id": 1,
+            "name":"CSS Tutorial - Full Course for Beginners",
+            "web":"https://www.youtube.com/watch?v=OXGznpKZ_sA",
+            "image":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F6%2F62%2FCSS3_logo.svg%2F800px-CSS3_logo.svg.png&tbnid=zn4E1LCRH2ZkXM&vet=12ahUKEwi9zoum36f-AhUSnCcCHaWkCmwQMygSegUIARCKAg..i&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ACSS3_logo.svg&docid=1BFpZJlANz8SCM&w=800&h=800&q=css&ved=2ahUKEwi9zoum36f-AhUSnCcCHaWkCmwQMygSegUIARCKAg"
+        },  {
+            "id": 2,
+            "name":"Harvard CS50 - Full Computer Science University Course",
+            "web":"https://www.youtube.com/watch?v=8mAITcNt710",
+            "image":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fcontent%2Fimages%2F2022%2F10%2Fcs502.png&tbnid=hj1p44Eez_ugOM&vet=12ahUKEwiH34DS36f-AhXBmScCHTvfBr0QMygAegUIARDBAQ..i&imgrefurl=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fharvard-cs50%2F&docid=cmkNussLWOjtMM&w=1280&h=720&q=Harvard%20CS50%20%E2%80%93%20Full%20Computer%20Science%20University%20Course&ved=2ahUKEwiH34DS36f-AhXBmScCHTvfBr0QMygAegUIARDBAQ"
+        },  {
+            "id": 3,
+            "name":"Microsoft Excel Tutorial for Beginners - Full Course",
+            "web":"https://www.youtube.com/watch?v=Vl0H-qTclOg",
+            "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FMicrosoft_Excel&psig=AOvVaw0eNAMjR0aIIRHetpKWkf7q&ust=1681505964739000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKDOsP7fp_4CFQAAAAAdAAAAABAJ"
+        } 
+    ]
+}
